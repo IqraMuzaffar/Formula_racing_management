@@ -1,0 +1,3 @@
+0,akaso,akaka,akaka,1,1,1,1,3,1,1,1
+1,gasfasfa,asfasfasfas,asfasfasfasfasfasf,1,1,1,1,3,1,1,1
+2,asfasdfasfa,sfasfasfa,sfasfasffasf,1,1,1,11,113,111,1,1
